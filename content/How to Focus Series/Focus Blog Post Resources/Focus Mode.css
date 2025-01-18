@@ -1,0 +1,8 @@
+.status-bar, .workspace-tab-header-container, .view-header {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.status-bar:hover, .workspace-tab-header-container:hover, .view-header:hover {
+    opacity: 1;
+}
