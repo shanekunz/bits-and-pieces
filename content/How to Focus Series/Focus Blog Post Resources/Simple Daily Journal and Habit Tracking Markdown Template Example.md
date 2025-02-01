@@ -1,29 +1,32 @@
 # Rituals
 ## Habits
+- [ ] Morning Sunlight
 - [ ] Exercise
-- [ ] Meditate
+- [ ] Meditation
 - [ ] Read
-- [ ] Sleep
+- [ ] Good Sleep
+### Actions to Avoid
+- [ ] Didn't Drink
+- [ ] Didn't Eat Junk Food
+- [ ] Didn't Yell
 ## Morning
-1. **Gratitude**: What am I grateful for today?
+1. **Gratitude**: _What’s one thing I appreciate about my life right now, and why does it matter to me?_
    
-2. **Vision**: What would make today great?
+2. **Narrative**: _If I were to tell a short story about yesterday, what would I say? Think of the wins, the losses, and any memorable moments._
    
-3. **Embodiment**: What am I embodying today?
+3. **Reflection**: _How can I learn from those moments to guide me forward?_
    
-4. **Review**: Look at yesterday’s scrum—did I do what I planned and why?
+4. **Intention**: _What energy, mindset, or values do I want to embody today? How do I want to show up for myself and others?_
    
-5. **Reflection**: Did I accomplish everything I aimed for yesterday? If yes, note what worked and how to maintain that momentum. If no, note what didn’t work and how to adjust.
-   
-6. **Record**: In a few sentences, note what you did yesterday, what you’ll do today, any blocks, and how you’ll overcome them.
+5. **Focus & Plan**: _What are my top priorities today? Which is the single most important? How will I tackle them, and how can I handle any obstacles along the way?_
    
 ## Evening
-1. **Highlight**: What was special about today?
+1. **Highlight**: _What was special about today? Any wins?_
    
-2. **Improvement**: How could I have made today better?
+2. **Improvement**: _How could I have made today better?_
    
-3. **Concerns**: Any worries for tomorrow?
+3. **Concerns**: _Any worries for tomorrow? What’s one small step I can take to address or ease this worry tomorrow?_
    
-4. **Gratitude**: What am I grateful for?
+4. **Gratitude**: _What am I grateful for?_
    
 # Journal
