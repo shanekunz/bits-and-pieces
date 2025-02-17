@@ -6,4 +6,6 @@ This is a garden of musings on the world of technology, creativity, and the purs
 
 [[blog | Blog Posts]]
 
-[[How to Journal and Gain Knowledge in a Fast Digital World]]
+[[Effortless Focused Journaling & Note-Taking]]
+
+[[Effortless Habit Tracking]]
