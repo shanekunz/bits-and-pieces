@@ -39,3 +39,5 @@ Read sci-fi from fifty years ago, most of it missed the details. That never matt
 Every tool we call “revolutionary” eventually fades into the background of normal engineering. Steam engines, transistors, touchscreens, blockchains, now LLMs, each one looked world‑shaking, then quietly joined the toolbox. The winners were never the loudest cheerleaders. The universe favors makers, not spectators. So pick a project, steal the good parts of the tech, ignore the noise, and press deploy.
 
 Ask yourself, what am I putting off while I wait for a revolution that is already over, or maybe was never coming at all?
+
+[Click here to Subscribe](https://tally.so/r/3x4bR9) for more posts like this.
